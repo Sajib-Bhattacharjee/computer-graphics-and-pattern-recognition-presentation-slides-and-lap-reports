@@ -1,6 +1,6 @@
 <div align="center">
 
-## Computer Graphics
+## Computer Graphics & Pattern Recognition
 
 </div>
 
